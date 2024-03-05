@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TautulliMonitor", "TautulliMonitor\TautulliMonitor.csproj", "{AFCE3984-0B5D-4EC9-ACB0-08351D6C3E36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCE3984-0B5D-4EC9-ACB0-08351D6C3E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCE3984-0B5D-4EC9-ACB0-08351D6C3E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCE3984-0B5D-4EC9-ACB0-08351D6C3E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCE3984-0B5D-4EC9-ACB0-08351D6C3E36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A00E68F-80A6-40D1-9373-4F3055D838F0}
+	EndGlobalSection
+EndGlobal
